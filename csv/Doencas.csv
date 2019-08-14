@@ -1,0 +1,33 @@
+idUnidade,idPessoa,unidade,bairro,sexo,dataRegistro,dataTransmissao,doenca
+1,2,centro,centro,F,19/05/2018 22:43:55,19/05/2018 22:43:55,Chikungunya
+6,3,Santa Maria,Santa Maria,F,01/10/2015 07:42:16,27/03/2018 19:03:58,Dengue
+5,5,Maria Goretti,Maria Goretti,F,09/05/2017 10:56:17,01/07/2018 04:35:26,Zika vírus 
+3,3,Santa Maria,Santa Maria,F,20/10/2016 05:22:27,04/03/2018 22:31:01,Chikungunya
+4,2,Esplanada,Esplanada,F,20/09/2015 16:05:25,19/07/2018 01:28:08,Chikungunya
+6,5,Maria Goretti,Maria Goretti,F,31/03/2016 15:15:06,22/01/2018 15:33:25,Chikungunya
+7,2,Esplanada,Palmital,M,31/04/2018 12:10:44,20/02/2018 10:06:00:04,Dengue
+8,3,Centro,Centro,M,02/07/2018 04:14:07,03/07/2018 03:12:13,Zika vírus 
+9,3,Centro,Centro,M,03/07/2018 04:14:07,03/07/2018 03:12:13,Zika vírus 
+10,3,Centro,Centro,M,03/07/2018 04:14:07,03/07/2018 03:12:13,Zika vírus 
+11,3,Centro,Centro,M,04/07/2018 04:14:07,03/07/2018 03:12:13,Zika vírus 
+12,3,Centro,Centro,M,04/07/2018 04:14:07,03/07/2018 03:12:13,Zika vírus 
+13,3,Centro,Centro,M,05/07/2018 04:14:07,03/07/2018 03:12:13,Chikungunya
+14,3,Centro,Centro,M,05/07/2018 04:14:07,03/07/2018 03:12:13,Zika vírus 
+15,3,Centro,Centro,M,05/07/2018 04:14:07,03/07/2018 03:12:13,Zika vírus 
+13,3,Centro,Centro,M,06/07/2018 04:14:07,03/07/2018 03:12:13,Zika vírus 
+14,3,Centro,Centro,M,06/07/2018 04:14:07,03/07/2018 03:12:13,Zika vírus 
+15,3,Centro,Centro,M,06/07/2018 04:14:07,03/07/2018 03:12:13,Chikungunya
+13,3,Centro,Centro,M,06/07/2018 04:14:07,03/07/2018 03:12:13,Chikungunya
+14,3,Centro,Centro,M,07/07/2018 04:14:07,03/07/2018 03:12:13,Zika vírus 
+15,3,Centro,Centro,M,07/07/2018 04:14:07,03/07/2018 03:12:13,Zika vírus 
+14,3,Centro,Centro,M,07/07/2018 04:14:07,03/07/2018 03:12:13,Sífilis
+15,3,Centro,Centro,M,07/07/2018 04:14:07,03/07/2018 03:12:13,Zika vírus 
+14,3,Centro,Centro,M,07/07/2018 04:14:07,03/07/2018 03:12:13,Sífilis
+15,3,Centro,Centro,M,07/07/2018 04:14:07,03/07/2018 03:12:13,Sífilis
+14,3,Centro,Centro,M,07/07/2018 04:14:07,03/07/2018 03:12:13,Sífilis
+15,3,Centro,Centro,M,07/07/2018 04:14:07,03/07/2018 03:12:13,Sífilis
+15,3,Centro,Centro,M,20/07/2018 04:14:07,03/07/2018 03:12:13,Sífilis
+14,3,Centro,Centro,M,21/07/2018 04:14:07,03/07/2018 03:12:13,Sífilis
+15,3,Centro,Centro,M,22/07/2018 04:14:07,03/07/2018 03:12:13,Sífilis
+14,3,Centro,Centro,M,23/07/2018 04:14:07,03/07/2018 03:12:13,Sífilis
+15,3,Centro,Centro,M,24/07/2018 04:14:07,03/07/2018 03:12:13,Sífilis
